@@ -23,4 +23,4 @@ To create a basic virtual agent using Google CCAI's Dialogflow to demonstrate my
 - Successfully tested intents using Dialogflow Console’s chat interface.
 
 ## Live Demo
-Interact with the virtual agent (https://github.com/MdMarufiRahman/customer_bot/new/main?filename=README.md)
+Interact with the virtual agent (https://github.com/MdMarufiRahman/customer_bot)
